@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "email": "staff@example.com",
+    "phone": "+79991234567",
+    "password": "$2b$12$Nk7gxOH2FLRKrKqi0DmhaOe0S2V33V6GsYMWspk6cfMScjDqrrNMK",
+    "fullName": "Иванов Иван Иванович",
+    "status": "staff",
+    "category": null
+  },
+  {
+    "id": "1765797295573",
+    "email": "student@example.com",
+    "phone": "+79595671313",
+    "password": "$2b$12$BNJRAAJuGdVfYKiJffDVFeQQUYVo74xzN8KCB09Tt.ETqDXMbJrJO",
+    "fullName": "Петров Пётр Петрович",
+    "status": "student",
+    "category": "B",
+    "address": "",
+    "group": ""
+  },
+  {
+    "id": "1765965362658",
+    "email": "333@example.com",
+    "phone": "0333333333",
+    "password": "$2b$12$m.GJ.X0UvaQW/RCk8EzpNO115cq84tTNyvmJeu8SPcl0tJSxCf68O",
+    "fullName": "3 3 3",
+    "address": "3333333",
+    "group": "Группа 3",
+    "status": "student"
+  }
+]
