@@ -1,9 +1,0 @@
-{
-  "payment": 0,
-  "full_payment": 10000,
-  "theoryProgress": 0,
-  "practiceProgress": 0,
-  "instructor": null,
-  "payments": [],
-  "booking": []
-}
