@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1",
+    "email": "staff@example.com",
+    "phone": "+79991234567",
+    "password": "$2b$12$Nk7gxOH2FLRKrKqi0DmhaOe0S2V33V6GsYMWspk6cfMScjDqrrNMK",
+    "fullName": "Иванов Иван Иванович",
+    "status": "staff",
+    "category": null
+  },
+  {
+    "id": "1765797295573",
+    "email": "student@example.com",
+    "phone": "+79595671313",
+    "password": "$2b$12$BNJRAAJuGdVfYKiJffDVFeQQUYVo74xzN8KCB09Tt.ETqDXMbJrJO",
+    "fullName": "Петров Пётр Петрович",
+    "status": "student",
+    "category": "B",
+    "address": "",
+    "group": ""
+  },
+  {
+    "id": "1765965362658",
+    "email": "333@example.com",
+    "phone": "0333333333",
+    "password": "$2b$12$m.GJ.X0UvaQW/RCk8EzpNO115cq84tTNyvmJeu8SPcl0tJSxCf68O",
+    "fullName": "3 3 3",
+    "address": "3333333",
+    "group": "Группа 3",
+    "status": "student"
+  },
+  {
+    "id": "1769625384243",
+    "email": "r@example.com",
+    "phone": "+11111111111",
+    "password": "$2b$12$yUEGxutHeT1SxH8Hwe5UmOtjhodbb/J6rEg5Qv3TShqAzV4bg/ae.",
+    "fullName": "r r r",
+    "address": "123456",
+    "group": "Группа 2",
+    "status": "student"
+  },
+  {
+    "id": "1769627831228",
+    "email": "1@example.com",
+    "phone": "1",
+    "password": "$2b$12$lwiTrcFKBri9Ua.qJPWj8OgzfcHiVFDPzoqYz8k7eJ7rhz5IVGky2",
+    "fullName": "1 1 1",
+    "address": "1",
+    "status": "mastercar"
+  }
+]

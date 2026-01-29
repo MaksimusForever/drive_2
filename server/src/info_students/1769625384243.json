@@ -1,0 +1,21 @@
+{
+  "payment": 123467,
+  "theoryProgress": 0,
+  "practiceProgress": 0,
+  "instructor": {
+    "id": "",
+    "fullName": "",
+    "photo": ""
+  },
+  "payments": [
+    {
+      "date": "2026-01-28",
+      "amount": 1245
+    },
+    {
+      "date": "2026-01-28",
+      "amount": 122222
+    }
+  ],
+  "booking": []
+}

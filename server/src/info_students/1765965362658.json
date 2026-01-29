@@ -1,0 +1,36 @@
+{
+  "payment": 26014,
+  "totalPrice": 35000,
+  "theoryProgress": 0,
+  "practiceProgress": 0,
+  "nextLesson": null,
+  "booking": [
+    {
+      "date": "2026-01-28",
+      "time": "14:00",
+      "place": "Атриум"
+    }
+  ],
+  "payments": [
+    {
+      "date": "2025-12-17",
+      "amount": 25000
+    },
+    {
+      "date": "2025-12-17",
+      "amount": 1000
+    },
+    {
+      "date": "2025-12-18",
+      "amount": 1
+    },
+    {
+      "date": "2025-12-20",
+      "amount": 1
+    },
+    {
+      "date": "2026-01-28",
+      "amount": 12
+    }
+  ]
+}
